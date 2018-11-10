@@ -1,5 +1,6 @@
 //Juan Moraza
-//jmoraz2
+//www.MorazaJuan.com
+//www.MorazaPower.com
 
 
 int INCREASE = 3;
